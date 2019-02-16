@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 15, 2019, 10:35:55 PM
+    Author     : Gabriel
+*/
+
+.root{
+    -fx-background-color: #808080;
+}
+
+.stackPane{
+    -fx-border-color: #a1a1a1;
+    -fx-border-width: 5;
+}
